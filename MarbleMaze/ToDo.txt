@@ -1,0 +1,3 @@
+There are two things you should immediately tackle if you want to continue working on this project. First, have a go at refactoring the loadLevel() method so that it's made up of multiple smaller methods. This will make your code easier to read and easier to maintain, at least it will do if you do a good job!
+
+Second, when the player finally makes it to the finish marker, nothing happens. What should happen? Well, that's down to you now. You could easily design several new levels and have them progress through, but could you add things that make the new levels different – perhaps a teleport that moves the player from one point in the level to another? Add a new letter type in loadLevel(), add another collision type to our enum, then see what you can do. Have fun!

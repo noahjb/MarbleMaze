@@ -9,25 +9,51 @@
 /* Begin PBXBuildFile section */
 		768284DC1EF4FEBF00F290FD /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 768284DB1EF4FEBF00F290FD /* AppDelegate.swift */; };
 		768284DE1EF4FEBF00F290FD /* GameScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = 768284DD1EF4FEBF00F290FD /* GameScene.sks */; };
-		768284E01EF4FEBF00F290FD /* Actions.sks in Resources */ = {isa = PBXBuildFile; fileRef = 768284DF1EF4FEBF00F290FD /* Actions.sks */; };
 		768284E21EF4FEBF00F290FD /* GameScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 768284E11EF4FEBF00F290FD /* GameScene.swift */; };
 		768284E41EF4FEBF00F290FD /* GameViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 768284E31EF4FEBF00F290FD /* GameViewController.swift */; };
 		768284E71EF4FEBF00F290FD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 768284E51EF4FEBF00F290FD /* Main.storyboard */; };
 		768284E91EF4FEBF00F290FD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 768284E81EF4FEBF00F290FD /* Assets.xcassets */; };
 		768284EC1EF4FEBF00F290FD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 768284EA1EF4FEBF00F290FD /* LaunchScreen.storyboard */; };
+		768285011EF4FF1500F290FD /* background.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 768284F41EF4FF1500F290FD /* background.jpg */; };
+		768285021EF4FF1500F290FD /* background@2x.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 768284F51EF4FF1500F290FD /* background@2x.jpg */; };
+		768285031EF4FF1500F290FD /* block.png in Resources */ = {isa = PBXBuildFile; fileRef = 768284F61EF4FF1500F290FD /* block.png */; };
+		768285041EF4FF1500F290FD /* block@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 768284F71EF4FF1500F290FD /* block@2x.png */; };
+		768285051EF4FF1500F290FD /* finish.png in Resources */ = {isa = PBXBuildFile; fileRef = 768284F81EF4FF1500F290FD /* finish.png */; };
+		768285061EF4FF1500F290FD /* finish@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 768284F91EF4FF1500F290FD /* finish@2x.png */; };
+		768285071EF4FF1500F290FD /* level1.txt in Resources */ = {isa = PBXBuildFile; fileRef = 768284FA1EF4FF1500F290FD /* level1.txt */; };
+		768285081EF4FF1500F290FD /* player.png in Resources */ = {isa = PBXBuildFile; fileRef = 768284FB1EF4FF1500F290FD /* player.png */; };
+		768285091EF4FF1500F290FD /* player@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 768284FC1EF4FF1500F290FD /* player@2x.png */; };
+		7682850A1EF4FF1500F290FD /* star.png in Resources */ = {isa = PBXBuildFile; fileRef = 768284FD1EF4FF1500F290FD /* star.png */; };
+		7682850B1EF4FF1500F290FD /* star@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 768284FE1EF4FF1500F290FD /* star@2x.png */; };
+		7682850C1EF4FF1500F290FD /* vortex.png in Resources */ = {isa = PBXBuildFile; fileRef = 768284FF1EF4FF1500F290FD /* vortex.png */; };
+		7682850D1EF4FF1500F290FD /* vortex@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 768285001EF4FF1500F290FD /* vortex@2x.png */; };
+		76B64C2E1EFA42DB00F6A4F8 /* ToDo.txt in Resources */ = {isa = PBXBuildFile; fileRef = 76B64C2D1EFA42DB00F6A4F8 /* ToDo.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		768284D81EF4FEBF00F290FD /* MarbleMaze.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MarbleMaze.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		768284DB1EF4FEBF00F290FD /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		768284DD1EF4FEBF00F290FD /* GameScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = GameScene.sks; sourceTree = "<group>"; };
-		768284DF1EF4FEBF00F290FD /* Actions.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Actions.sks; sourceTree = "<group>"; };
 		768284E11EF4FEBF00F290FD /* GameScene.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameScene.swift; sourceTree = "<group>"; };
 		768284E31EF4FEBF00F290FD /* GameViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameViewController.swift; sourceTree = "<group>"; };
 		768284E61EF4FEBF00F290FD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		768284E81EF4FEBF00F290FD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		768284EB1EF4FEBF00F290FD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		768284ED1EF4FEBF00F290FD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		768284F41EF4FF1500F290FD /* background.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = background.jpg; sourceTree = "<group>"; };
+		768284F51EF4FF1500F290FD /* background@2x.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "background@2x.jpg"; sourceTree = "<group>"; };
+		768284F61EF4FF1500F290FD /* block.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = block.png; sourceTree = "<group>"; };
+		768284F71EF4FF1500F290FD /* block@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "block@2x.png"; sourceTree = "<group>"; };
+		768284F81EF4FF1500F290FD /* finish.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = finish.png; sourceTree = "<group>"; };
+		768284F91EF4FF1500F290FD /* finish@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "finish@2x.png"; sourceTree = "<group>"; };
+		768284FA1EF4FF1500F290FD /* level1.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = level1.txt; sourceTree = "<group>"; };
+		768284FB1EF4FF1500F290FD /* player.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = player.png; sourceTree = "<group>"; };
+		768284FC1EF4FF1500F290FD /* player@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "player@2x.png"; sourceTree = "<group>"; };
+		768284FD1EF4FF1500F290FD /* star.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = star.png; sourceTree = "<group>"; };
+		768284FE1EF4FF1500F290FD /* star@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "star@2x.png"; sourceTree = "<group>"; };
+		768284FF1EF4FF1500F290FD /* vortex.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = vortex.png; sourceTree = "<group>"; };
+		768285001EF4FF1500F290FD /* vortex@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "vortex@2x.png"; sourceTree = "<group>"; };
+		76B64C2D1EFA42DB00F6A4F8 /* ToDo.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = ToDo.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,17 +86,38 @@
 		768284DA1EF4FEBF00F290FD /* MarbleMaze */ = {
 			isa = PBXGroup;
 			children = (
+				768284F31EF4FF1500F290FD /* Content */,
 				768284DB1EF4FEBF00F290FD /* AppDelegate.swift */,
 				768284DD1EF4FEBF00F290FD /* GameScene.sks */,
-				768284DF1EF4FEBF00F290FD /* Actions.sks */,
 				768284E11EF4FEBF00F290FD /* GameScene.swift */,
 				768284E31EF4FEBF00F290FD /* GameViewController.swift */,
 				768284E51EF4FEBF00F290FD /* Main.storyboard */,
 				768284E81EF4FEBF00F290FD /* Assets.xcassets */,
 				768284EA1EF4FEBF00F290FD /* LaunchScreen.storyboard */,
 				768284ED1EF4FEBF00F290FD /* Info.plist */,
+				76B64C2D1EFA42DB00F6A4F8 /* ToDo.txt */,
 			);
 			path = MarbleMaze;
+			sourceTree = "<group>";
+		};
+		768284F31EF4FF1500F290FD /* Content */ = {
+			isa = PBXGroup;
+			children = (
+				768284F41EF4FF1500F290FD /* background.jpg */,
+				768284F51EF4FF1500F290FD /* background@2x.jpg */,
+				768284F61EF4FF1500F290FD /* block.png */,
+				768284F71EF4FF1500F290FD /* block@2x.png */,
+				768284F81EF4FF1500F290FD /* finish.png */,
+				768284F91EF4FF1500F290FD /* finish@2x.png */,
+				768284FA1EF4FF1500F290FD /* level1.txt */,
+				768284FB1EF4FF1500F290FD /* player.png */,
+				768284FC1EF4FF1500F290FD /* player@2x.png */,
+				768284FD1EF4FF1500F290FD /* star.png */,
+				768284FE1EF4FF1500F290FD /* star@2x.png */,
+				768284FF1EF4FF1500F290FD /* vortex.png */,
+				768285001EF4FF1500F290FD /* vortex@2x.png */,
+			);
+			path = Content;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -133,10 +180,23 @@
 			buildActionMask = 2147483647;
 			files = (
 				768284E71EF4FEBF00F290FD /* Main.storyboard in Resources */,
+				768285091EF4FF1500F290FD /* player@2x.png in Resources */,
+				7682850D1EF4FF1500F290FD /* vortex@2x.png in Resources */,
+				7682850B1EF4FF1500F290FD /* star@2x.png in Resources */,
+				7682850C1EF4FF1500F290FD /* vortex.png in Resources */,
+				768285081EF4FF1500F290FD /* player.png in Resources */,
+				768285041EF4FF1500F290FD /* block@2x.png in Resources */,
+				768285051EF4FF1500F290FD /* finish.png in Resources */,
 				768284DE1EF4FEBF00F290FD /* GameScene.sks in Resources */,
 				768284E91EF4FEBF00F290FD /* Assets.xcassets in Resources */,
+				768285021EF4FF1500F290FD /* background@2x.jpg in Resources */,
+				768285011EF4FF1500F290FD /* background.jpg in Resources */,
 				768284EC1EF4FEBF00F290FD /* LaunchScreen.storyboard in Resources */,
-				768284E01EF4FEBF00F290FD /* Actions.sks in Resources */,
+				7682850A1EF4FF1500F290FD /* star.png in Resources */,
+				76B64C2E1EFA42DB00F6A4F8 /* ToDo.txt in Resources */,
+				768285071EF4FF1500F290FD /* level1.txt in Resources */,
+				768285061EF4FF1500F290FD /* finish@2x.png in Resources */,
+				768285031EF4FF1500F290FD /* block.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -311,6 +371,7 @@
 				768284F21EF4FEBF00F290FD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
